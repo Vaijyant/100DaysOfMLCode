@@ -1,4 +1,4 @@
-# 100 Projects in ML Code
+# 100 Projects in ML
 
 ## Author
 Vaijyant Tomar
