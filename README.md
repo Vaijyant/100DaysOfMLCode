@@ -3,7 +3,7 @@
 ## Author
 Vaijyant Tomar
 
-#### Tehnologies
+#### Technologies
 Python, Tensorflow, Machine Learning
 
 ### About
