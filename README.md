@@ -1,10 +1,10 @@
-# 100 Projects in ML
+# ML Play GRound
 
 ## Author
 Vaijyant Tomar
 
 #### Tehnologies
-Python, Machine Learning
+Python, Tensorflow, Machine Learning
 
 ### About
 This project is inspired by Siraj Raval's 100 Days of ML Code. In this Project I aim to create 100 projects in ML.
